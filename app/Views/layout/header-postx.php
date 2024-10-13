@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--  Document Title ============================================= -->
-    <title><?= $title; ?> | Teknik Informatika Unusia</title>
+    <title><?= $title; ?> | Universitas Nahdlatul Ulama Indonesia</title>
     <!--  Favicons ============================================= -->
     <link rel="apple-touch-icon" sizes="180x180" href="<?= base_url(''); ?>assets/titan/images/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="512x512" href="<?= base_url(''); ?>assets/titan/images/favicon/android-chrome-512x512.png">
@@ -44,7 +44,7 @@
       <nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/">Teknik Informatika</a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#custom-collapse"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a class="navbar-brand" href="/">UNUSIA</a>
           </div>
           <div class="collapse navbar-collapse" id="custom-collapse">
             <ul class="nav navbar-nav navbar-right">

@@ -3,8 +3,8 @@
             <div class="row">
               <div class="col-sm-3">
                 <div class="widget">
-                  <h5 class="widget-title font-alt">Tentang TI UNUSIA</h5>
-                  <p>Teknik Informatika Unversitas Nahdlatul Ulama Indonesia (TI UNUSIA) merupakan Program Studi yang Memiliki Kekhasan dalam bidang Pengembangan Perangkat Lunak dan Sistem Cerdas.</p>
+                  <h5 class="widget-title font-alt">Tentang UNUSIA</h5>
+                  <p>Unversitas Nahdlatul Ulama Indonesia (UNUSIA) merupakan perguruan tinggi nahdlatul ulama yang menyelenggarakan program sarjana, magister, dan doktoral.</p>
                 </div>
               </div>
               <div class="col-sm-3">

@@ -7,17 +7,18 @@
             <li class="bg-dark-30 bg-dark shop-page-header" style="background-image:url(&quot;assets/titan/images/sliders/slider1.png&quot;);">
               <div class="titan-caption">
                 <div class="caption-content">
-                  <div class="font-alt mb-30 titan-title-size-1">This is Titan</div>
-                  <div class="font-alt mb-30 titan-title-size-4"> Summer 2017</div>
-                  <div class="font-alt mb-40 titan-title-size-1">Your online fashion destination</div><a class="section-scroll btn btn-border-w btn-round" href="#latest">Learn More</a>
+                  <div class="font-alt mb-30 titan-title-size-1">@unuindonesia</div>
+                  <div class="font-alt mb-30 titan-title-size-2"> Universitas Nahdlatul Ulama Indonesia</div>
+                  <div class="font-alt mb-40 titan-title-size-1">Knowledge Faith Wisdom</div><a class="section-scroll btn btn-border-w btn-round" href="#latest">Learn More</a>
                 </div>
               </div>
             </li>
-            <li class="bg-dark-30 bg-dark shop-page-header" style="background-image:url(&quot;assets/titan/images/sliders/slider3.png&quot;);">
+            <li class="bg-dark-30 bg-dark shop-page-header" style="background-image:url(&quot;assets/titan/images/sliders/slider5.jpg&quot;);">
               <div class="titan-caption">
                 <div class="caption-content">
-                  <div class="font-alt mb-30 titan-title-size-1"> This is Titan</div>
-                  <div class="font-alt mb-40 titan-title-size-4">Exclusive products</div><a class="section-scroll btn btn-border-w btn-round" href="#latest">Learn More</a>
+                  <div class="font-alt mb-30 titan-title-size-1"> @unuindonesia</div>
+                  <div class="font-alt mb-30 titan-title-size-2"> Towards an Excellent Univerity</div>
+                  <div class="font-alt mb-40 titan-title-size-1">Knowledge Faith Wisdom</div><a class="section-scroll btn btn-border-w btn-round" href="#latest">Learn More</a>
                 </div>
               </div>
             </li>
@@ -30,48 +31,41 @@
           <div class="container">
             <div class="row">
               <div class="col-sm-6 col-sm-offset-3">
-                <h2 class="module-title font-alt">Teknik Informatika</h2>
-                <div class="module-subtitle font-serif">Kenali lebih dekat ranah keilmuan atau area pengetahuan yang diajarkan pada bidang Teknik Informatika atau Ilmu Komputer.</div>
+                <h2 class="module-title font-alt">U N U S I A</h2>
+                <div class="module-subtitle font-serif">Universitas Nahdlatul Ulama Indonesia</div>
               </div>
             </div>
             <div class="row">
               <div class="col-sm-6 col-md-3 col-lg-3">
                 <div class="alt-features-item">
-                  <div class="alt-features-icon"><span class="icon-strategy"></span></div>
-                  <h3 class="alt-features-title font-alt">Data System</h3>terkait dengan pengetahuan yang mempelajari sistem ke-“data”-an sebagai atom konteks terkecil dalam sebuah lingkungan berbasis informatika;
-                </div>
-                <div class="alt-features-item">
-                  <div class="alt-features-icon"><span class="icon-tools-2"></span></div>
-                  <h3 class="alt-features-title font-alt">Algorithm</h3>terkait dengan pengetahuan berfikir secara logis dan terstruktur dalam rangka memecahkan permasalahan tertentu atau mencapai obyektif tertentu;
-                </div>
-                <div class="alt-features-item">
-                  <div class="alt-features-icon"><span class="icon-target"></span></div>
-                  <h3 class="alt-features-title font-alt">Program Building</h3>terkait dengan kemampuan membangun program sebagai suatu perangkat lunak yang dapat menjalankan fungsi spesifik tertentu;
-                </div>
-                <div class="alt-features-item">
                   <div class="alt-features-icon"><span class="icon-tools"></span></div>
-                  <h3 class="alt-features-title font-alt">Computer Application</h3>terkait dengan pengetahuan dan kemampuan menggabungkan sejumlah modul-modul program dalam rangka membuat sebuah aplikasi dengan fitur-fitur yang diinginkan;
+                  <h3 class="alt-features-title font-alt">Fakultas Keguruan dan Ilmu Pendidikan</h3>terkait dengan pendidikan agama islam, keguruan madrasah, PAUD, dan bahasa;
                 </div>
+                <div class="alt-features-item">
+                  <div class="alt-features-icon"><span class="icon-strategy"></span></div>
+                  <h3 class="alt-features-title font-alt">Fakultas Hukum</h3>terkait dengan ilmu hukum dan hukum keluarga;
+                </div>
+                <div class="alt-features-item">
+                  <div class="alt-features-icon"><span class="icon-shield"></span></div>
+                  <h3 class="alt-features-title font-alt">Fakultas Islam Nusantara</h3>terkait dengan sejarah peradaban islam di nusantara;
+                </div>
+                
               </div>
               <div class="col-md-6 col-lg-6 hidden-xs hidden-sm">
                 <div class="alt-services-image align-center"><img src="assets/titan/images/promo.png" alt="Feature Image"></div>
               </div>
               <div class="col-sm-6 col-md-3 col-lg-3">
                 <div class="alt-features-item">
-                  <div class="alt-features-icon"><span class="icon-camera"></span></div>
-                  <h3 class="alt-features-title font-alt">Information System</h3>terkait dengan pengetahuan membangun sebuah sistem informasi yang terdiri dari komponen-komponen yang terkait satu dengan lainnya dalam sebuah lingkungan yang holistik;
-                </div>
-                <div class="alt-features-item">
-                  <div class="alt-features-icon"><span class="icon-mobile"></span></div>
-                  <h3 class="alt-features-title font-alt">Computer and Device</h3>terkait dengan pemahaman terhadap cara kerja mesin komputasi beserta piranti lain pendukungnya;
-                </div>
-                <div class="alt-features-item">
                   <div class="alt-features-icon"><span class="icon-linegraph"></span></div>
-                  <h3 class="alt-features-title font-alt">Intelligent System</h3>terkait dengan pemahaman dalam merancang dan membangun sistem cerdas untuk berbagai kebutuhan aktivitas kehidupan manusia yang memberikan nilai tambah;
+                  <h3 class="alt-features-title font-alt">Fakultas Teknik dan Ilmu Komputer</h3>terkait dengan ilmu komputer, sistem informasi, dan teknologi agroindustri;
                 </div>
                 <div class="alt-features-item">
                   <div class="alt-features-icon"><span class="icon-basket"></span></div>
-                  <h3 class="alt-features-title font-alt">Network and Communication</h3>terkait dengan pengetahuan mengenai seluk beluk jejaring komputer beserta mekanisme protokol komunikasinya;
+                  <h3 class="alt-features-title font-alt">Fakultas Ekonomi dan Bisnis</h3>terkait dengan akuntansi dan ekonomi syariah;
+                </div>
+                <div class="alt-features-item">
+                  <div class="alt-features-icon"><span class="icon-target"></span></div>
+                  <h3 class="alt-features-title font-alt">Fakultas Ilmu Sosial</h3>terkait dengan psikologi dan sosiologi;
                 </div>
               </div>
             </div>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!--  Document Title ============================================= -->
-    <title>TI UNUSIA | Teknik Informatika</title>
+    <title>UNUSIA | Universitas Nahdlatul Ulama Indonesia</title>
     <meta content="Let's Join Teknik Informatika Unusia!" name="description">
     <meta content="Teknik Informatika, UNUSIA, TI UNUSIA, NU, Universitas Nahdlatul Ulama Indonesia" name="keywords">
     <!--  Favicons ============================================= -->
