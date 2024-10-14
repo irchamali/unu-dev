@@ -50,7 +50,7 @@ class PostviewModel extends Model
         return $this->paginate($limit, 'posts');
     }
 
-    public function getAllPosts($limit = 3)
+    public function getAllPosts($limit = 9)
     {
         $this->orderBy('post_date', 'DESC')
              ->where(['post_status' => 1]);

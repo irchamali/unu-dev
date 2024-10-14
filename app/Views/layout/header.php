@@ -59,13 +59,6 @@
                   <li><a href="<?= base_url(''); ?>pengelola"><i class="fa fa-link fa-sm"></i> Pengelola</a></li>
                   <li><a href="<?= base_url(''); ?>dosen"><i class="fa fa-tasks"></i> Dosen</a></li>
                   <li><a href="<?= base_url(''); ?>kurikulum"><i class="fa fa-list-alt"></i> Kurikulum</a></li>
-                  <li class="dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown"><i class="fa fa-check-square-o"></i> Peminatan</a></a>
-                    <ul class="dropdown-menu">
-                      <li><a href="<?= base_url(''); ?>softwaredevelopment">Software Development</a></li>
-                      <li><a href="<?= base_url(''); ?>networkengineering">Network Engineering</a></li>
-                      <li><a href="<?= base_url(''); ?>intelligentsystem">Intelligent System</a></li>
-                    </ul>
-                  </li>
                 </ul>
               </li>
 
@@ -107,6 +100,7 @@
                   </li>
                 </ul>
               </li>
+              <li><a href="#" >Kerjasama</a>
               <li><a href="#" >PMB</a>
               </li>
             </ul>

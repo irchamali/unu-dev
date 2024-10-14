@@ -13,9 +13,9 @@
                   <ul class="icon-list">
                     <li>Email <a href="mailto:<?= $site['site_mail']; ?>"><?= $site['site_mail']; ?></a></li>
                     <li>WhatsApp <a href="https://wa.me/<?= $site['site_wa']; ?>">Click for WA me</a></li>
-                    <li>Instagram <a href="<?= $site['site_instagram']; ?>">Teknik Informatika Unusia</a></li>
-                    <li>TikTok <a href="<?= $site['site_twitter']; ?>">Teknik Informatika Unusia</a></li>
-                    <li>Facebook <a href="<?= $site['site_facebook']; ?>">Teknik Informatika Unusia</a></li>
+                    <li>Instagram <a href="<?= $site['site_instagram']; ?>">@unuindonesia</a></li>
+                    <li>TikTok <a href="<?= $site['site_twitter']; ?>">@unuindonesia</a></li>
+                    <li>Facebook <a href="<?= $site['site_facebook']; ?>">Unusia</a></li>
                   </ul>
                 </div>
               </div>
@@ -23,10 +23,11 @@
                 <div class="widget">
                   <h5 class="widget-title font-alt">Informasi Berguna</h5>
                   <ul class="icon-list">
-                    <li><a href="https://youtu.be/yPGNLD3cVLs?si=KxEtdVmEawaMQ7Es">Video Profil</a></li>
-                    <li><a href="https://youtu.be/zKZt0GUluaI?si=eX9Mn0S4I0_gorqC">Podcast</a></li>
+                    <li><a href="https://youtu.be/1RbFk43v7-o?si=UZYJn-yxTCbYIZQa">Video Profil</a></li>
+                    <li><a href="https://sianas.unusia.ac.id">Sianas</a></li>
                     <li><a href="https://pmb.unusia.ac.id">Pendaftaran</a></li>
-                    <li><a href="https://github.com/unusialabs">Repository</a></li>
+                    <li><a href="https://perpustakaan.unusia.ac.id">Perpustakaan</a></li>
+                    <li><a href="https://repository.unusia.ac.id">Repository</a></li>
                   </ul>
                 </div>
               </div>
@@ -57,7 +58,7 @@
           <div class="container">
             <div class="row">
               <div class="col-sm-6">
-                <p class="copyright font-alt">&copy; 2024&nbsp;<a href="/login">Teknik Informatika Unusia</a></p>
+                <p class="copyright font-alt">&copy; 2024&nbsp;<a href="/login">Web Unusia</a></p>
               </div>
               <!-- <div class="col-sm-6">
                 <div class="footer-social-links"><a href="#"><i class="fa fa-facebook"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-dribbble"></i></a><a href="#"><i class="fa fa-skype"></i></a>
